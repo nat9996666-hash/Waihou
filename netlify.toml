@@ -1,0 +1,8 @@
+# Waihou Road TTM Safety Challenge
+# The game itself is public/index.html. The shared leaderboard is netlify/functions/waihou-scores.mjs.
+[build]
+  publish = "public"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"

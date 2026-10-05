@@ -1,0 +1,9 @@
+{
+  "name": "waihou-ttm-safety-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Waihou Road TTM Safety Challenge with a shared leaderboard",
+  "dependencies": {
+    "@netlify/blobs": "11.1.3"
+  }
+}
